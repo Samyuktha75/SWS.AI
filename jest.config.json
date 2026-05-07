@@ -1,0 +1,6 @@
+{
+  "testEnvironment": "node",
+  "testMatch": ["**/tests/**/*.test.js"],
+  "forceExit": true,
+  "testTimeout": 15000
+}
